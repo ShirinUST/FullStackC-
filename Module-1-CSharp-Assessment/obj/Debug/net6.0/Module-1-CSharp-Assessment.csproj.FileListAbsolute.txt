@@ -1,0 +1,15 @@
+C:\Exam\Module-1-CSharp-Assessment\Module-1-CSharp-Assessment\obj\Debug\net6.0\Module-1-CSharp-Assessment.csproj.AssemblyReference.cache
+C:\Exam\Module-1-CSharp-Assessment\Module-1-CSharp-Assessment\obj\Debug\net6.0\Module-1-CSharp-Assessment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Exam\Module-1-CSharp-Assessment\Module-1-CSharp-Assessment\obj\Debug\net6.0\Module-1-CSharp-Assessment.AssemblyInfoInputs.cache
+C:\Exam\Module-1-CSharp-Assessment\Module-1-CSharp-Assessment\obj\Debug\net6.0\Module-1-CSharp-Assessment.AssemblyInfo.cs
+C:\Exam\Module-1-CSharp-Assessment\Module-1-CSharp-Assessment\obj\Debug\net6.0\Module-1-CSharp-Assessment.csproj.CoreCompileInputs.cache
+C:\Exam\Module-1-CSharp-Assessment\Module-1-CSharp-Assessment\bin\Debug\net6.0\Module-1-CSharp-Assessment.exe
+C:\Exam\Module-1-CSharp-Assessment\Module-1-CSharp-Assessment\bin\Debug\net6.0\Module-1-CSharp-Assessment.deps.json
+C:\Exam\Module-1-CSharp-Assessment\Module-1-CSharp-Assessment\bin\Debug\net6.0\Module-1-CSharp-Assessment.runtimeconfig.json
+C:\Exam\Module-1-CSharp-Assessment\Module-1-CSharp-Assessment\bin\Debug\net6.0\Module-1-CSharp-Assessment.dll
+C:\Exam\Module-1-CSharp-Assessment\Module-1-CSharp-Assessment\bin\Debug\net6.0\Module-1-CSharp-Assessment.pdb
+C:\Exam\Module-1-CSharp-Assessment\Module-1-CSharp-Assessment\obj\Debug\net6.0\Module-1-CSharp-Assessment.dll
+C:\Exam\Module-1-CSharp-Assessment\Module-1-CSharp-Assessment\obj\Debug\net6.0\refint\Module-1-CSharp-Assessment.dll
+C:\Exam\Module-1-CSharp-Assessment\Module-1-CSharp-Assessment\obj\Debug\net6.0\Module-1-CSharp-Assessment.pdb
+C:\Exam\Module-1-CSharp-Assessment\Module-1-CSharp-Assessment\obj\Debug\net6.0\Module-1-CSharp-Assessment.genruntimeconfig.cache
+C:\Exam\Module-1-CSharp-Assessment\Module-1-CSharp-Assessment\obj\Debug\net6.0\ref\Module-1-CSharp-Assessment.dll
